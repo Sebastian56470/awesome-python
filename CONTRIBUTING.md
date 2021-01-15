@@ -1,5 +1,8 @@
 # Contributing
 
+# neuer Text git kurs
+Bitte sende eine Email a:lieblings_kollege@firma.com 
+
 Your contributions are always welcome!
 
 ## Guideline
